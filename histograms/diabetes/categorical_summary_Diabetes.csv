@@ -1,0 +1,19 @@
+Attribute,Type,Number of unique values,Number of samples with no missing values,Number of missing values
+HealthcareInterest,Discrete,2,10000,0
+PreCVA,Discrete,2,10000,0
+RoutineChecks,Discrete,2,10000,0
+alcoholAbuse,Discrete,2,10000,0
+cholesterol_ver,Discrete,2,10000,0
+vegetables,Discrete,2,10000,0
+HighBP,Discrete,2,10000,0
+Unprocessed_fructose,Discrete,2,10000,0
+Jogging,Discrete,2,10000,0
+IncreasedChol,Discrete,2,10000,0
+gender,Discrete,2,10000,0
+myocardial_infarction,Discrete,2,10000,0
+Cardio,Discrete,2,10000,0
+ImprovedAveragePulmonaryCapacity,Discrete,2,10000,0
+Smoker,Discrete,2,10000,0
+CompletedEduLvl,Ordinal,6,9000,1000
+HealthScore,Ordinal,5,10000,0
+SalaryBraket,Ordinal,8,10000,0

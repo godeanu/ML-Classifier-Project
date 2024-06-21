@@ -1,0 +1,6 @@
+,residential_status,loan_purpose,loan_rating,credit_history_default_status,stability_rating
+residential_status,1,1.0,1.0,0.999944799536159,1.0
+loan_purpose,1.0,1,0.8467846760458615,0.7227769518795346,1.0
+loan_rating,1.0,0.8467846760458615,1,1.0,1.0
+credit_history_default_status,0.999944799536159,0.7227769518795346,1.0,1,0.999944799536159
+stability_rating,1.0,1.0,1.0,0.999944799536159,1

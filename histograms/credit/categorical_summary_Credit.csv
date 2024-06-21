@@ -1,0 +1,6 @@
+Attribute,Type,Number of unique values,Number of samples with no missing values,Number of missing values
+residential_status,Discrete,4,10000,0
+loan_purpose,Discrete,6,10000,0
+loan_rating,Discrete,7,10000,0
+credit_history_default_status,Discrete,2,10000,0
+stability_rating,Discrete,4,10000,0
