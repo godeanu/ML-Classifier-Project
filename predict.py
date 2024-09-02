@@ -24,12 +24,12 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import KBinsDiscretizer
 
-diabetes_train = pd.read_csv('tema2_Diabet/Diabet_train.csv')
-diabetes_test = pd.read_csv('tema2_Diabet/Diabet_test.csv')
-credit_train = pd.read_csv('tema2_Credit_Risk/credit_risk_train.csv')
-credit_test = pd.read_csv('tema2_Credit_Risk/credit_risk_test.csv')
-diabetes_full = pd.read_csv('tema2_Diabet/Diabet_full.csv')
-credit_full = pd.read_csv('tema2_Credit_Risk/credit_risk_full.csv')
+diabetes_train = pd.read_csv('dataset_Diabet/Diabet_train.csv')
+diabetes_test = pd.read_csv('dataset_Diabet/Diabet_test.csv')
+credit_train = pd.read_csv('dataset_Credit_Risk/credit_risk_train.csv')
+credit_test = pd.read_csv('dataset_Credit_Risk/credit_risk_test.csv')
+diabetes_full = pd.read_csv('dataset_Diabet/Diabet_full.csv')
+credit_full = pd.read_csv('dataset_Credit_Risk/credit_risk_full.csv')
 
 output_dir_diabetes = 'class_distribution/diabetes'
 os.makedirs(output_dir_diabetes, exist_ok=True)
